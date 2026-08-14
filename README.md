@@ -9,7 +9,8 @@
   <a href="https://hackerone.com"><img align="absmiddle" src="https://profile-photos.hackerone-user-content.com/variants/000/000/013/fa942b9b1cbf4faf37482bf68458e1195aab9c02_original.png/3f1ab5c6a9b6dadada1e6c8121700b884388bd0a43471fee1897a38ce57d0b2c" width="25" height="25" alt="HackerOne" /></a>
   <a href="https://roblox.com"><img align="absmiddle" src="https://img.icons8.com/forma-regular-filled-sharp/1200/roblox.jpg" width="25" height="25" alt="Roblox" /></a>
   <a href="https://reddit.com"><img align="absmiddle" src="https://vectorseek.com/wp-content/uploads/2023/12/Reddit-Icon-New-2023-Logo-Vector.svg-.png" width="25" height="25" alt="Reddit" /></a>
-  <a href="https://fluxer.app"><img align="absmiddle" src="https://fluxerstatic.com/marketing/branding/symbol-color.svg" width="25" height="25" alt="Fluxer" /></a>
+  <a href="https://fluxer.app"><img align="absmiddle" src="https://fluxerstatic.com/marketing/branding/symbol-color.svg" width="25" height="25" alt="Fluxer" /></a>, vdp:
+  <a href="https://signal.org/security"><img align="absmiddle" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Signal-Logo.svg/3840px-Signal-Logo.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail" width="25" height="25" alt="Signal" /></a>
   <br>
   ex qa&nbsp;
   <a href="https://discord.com"><img align="absmiddle" src="https://badcatgames.co.uk/wp-content/uploads/2023/05/discord-logo-square-300x300.png" width="25" height="25" alt="Discord" /></a>
