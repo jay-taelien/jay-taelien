@@ -5,6 +5,7 @@
   founder <a href="https://swap.supply"><img align="absmiddle" src="https://swap.supply/assets/logopng-CoQiZY9k.png" width="25" height="25" alt="Swap Supply" /></a>
   <br><br>
   bug bounty from
+  <a href="https://asana.com"><img align="absmiddle" src="https://cdn.builtin.com/cdn-cgi/image/f=auto,fit=contain,w=200,h=200,q=100/sites/www.builtin.com/files/2021-07/Logo-dots-email-signature.png" width="25" height="25" alt="Asana" /></a>
   <a href="https://figma.com"><img align="absmiddle" src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original" width="25" height="25" alt="Figma" /></a>
   <a href="https://discord.com"><img align="absmiddle" src="https://badcatgames.co.uk/wp-content/uploads/2023/05/discord-logo-square-300x300.png" width="25" height="25" alt="Discord" /></a>
   <a href="https://hackerone.com"><img align="absmiddle" src="https://profile-photos.hackerone-user-content.com/variants/000/000/013/fa942b9b1cbf4faf37482bf68458e1195aab9c02_original.png/3f1ab5c6a9b6dadada1e6c8121700b884388bd0a43471fee1897a38ce57d0b2c" width="25" height="25" alt="HackerOne" /></a>
