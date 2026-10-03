@@ -5,6 +5,7 @@
   check out https://swap.supply
   <br><br>
   bug bounty from
+  <a href="https://keepersecurity.com"><img align="absmiddle" src="https://keeper-email-images.s3.amazonaws.com/common/512x512_icon.png" width="25" height="25" alt="Keeper Security" /></a>
   <a href="https://evernote.com"><img align="absmiddle" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/evernote.png" width="25" height="25" alt="Evernote" /></a>
   <a href="https://asana.com"><img align="absmiddle" src="https://cdn.builtin.com/cdn-cgi/image/f=auto,fit=contain,w=200,h=200,q=100/sites/www.builtin.com/files/2021-07/Logo-dots-email-signature.png" width="25" height="25" alt="Asana" /></a>
   <a href="https://figma.com"><img align="absmiddle" src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original" width="25" height="25" alt="Figma" /></a>
